@@ -1,2 +1,2 @@
 key "7ebe0b5e6d15b1f8a525ba40f8289cbe60d99b54d15a2f89c5cf7448d25f2df1";
-remote ipv4 "gate07.ffwi.org" port 10037;
+remote ipv4 "spinat.freifunk-wiesbaden.de" port 10037;
