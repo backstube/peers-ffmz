@@ -1,2 +1,3 @@
 key "f885d213b8f61f33d501a366ce36bc0a1baeb48da83294f41a63248cdc0ace36";
 remote ipv4 "hinterschinken.freifunk-wiesbaden.de" port 10037;
+float yes;
